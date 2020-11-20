@@ -1,5 +1,7 @@
 # Dotfiles WSL
 
+Setting up a development environment in a fresh Windows 10 install.
+
 ## To do
 
 [] Add instructions for setting up a fresh install of Windows 10 Pro.
@@ -19,3 +21,4 @@
 - Groupy
 - AquaSnap
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - free for non-commercial use
+- µTorrent Classic - [Download Link](https://www.utorrent.com/downloads/complete/track/stable/os/win)
