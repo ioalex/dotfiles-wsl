@@ -12,7 +12,7 @@ Setting up a development environment in a fresh Windows 10 install.
 
 [] Add script that adds programs to start up.
 
-## Necessities
+## Essentials
 
 - Chocolatey
 - WinGet
@@ -20,5 +20,5 @@ Setting up a development environment in a fresh Windows 10 install.
 - AutoHotKey
 - Groupy
 - AquaSnap
-- [Easy Window Switcher](https://neosmart.net/EasySwitch/) - free for non-commercial use
+- [Easy Window Switcher](https://neosmart.net/EasySwitch/) - freeware
 - µTorrent Classic - [Download Link](https://www.utorrent.com/downloads/complete/track/stable/os/win)
