@@ -22,3 +22,4 @@ Setting up a development environment in a fresh Windows 10 install.
 - AquaSnap
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - freeware
 - µTorrent Classic - [Download Link](https://www.utorrent.com/downloads/complete/track/stable/os/win)
+- TaskbarX - [Link](https://chrisandriessen.nl/taskbarx) - freeware
